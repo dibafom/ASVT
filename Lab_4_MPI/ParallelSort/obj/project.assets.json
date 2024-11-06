@@ -740,11 +740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d_abu\\Desktop\\ASVT\\MPI-mult-matrix-master\\ParallelSort\\ParallelUmnogenie.csproj",
+      "projectUniqueName": "C:\\Users\\d_abu\\Desktop\\ASVT\\Lab_4_MPI\\ParallelSort\\ParallelUmnogenie.csproj",
       "projectName": "ParallelUmnogenie",
-      "projectPath": "C:\\Users\\d_abu\\Desktop\\ASVT\\MPI-mult-matrix-master\\ParallelSort\\ParallelUmnogenie.csproj",
+      "projectPath": "C:\\Users\\d_abu\\Desktop\\ASVT\\Lab_4_MPI\\ParallelSort\\ParallelUmnogenie.csproj",
       "packagesPath": "C:\\Users\\d_abu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d_abu\\Desktop\\ASVT\\MPI-mult-matrix-master\\ParallelSort\\obj\\",
+      "outputPath": "C:\\Users\\d_abu\\Desktop\\ASVT\\Lab_4_MPI\\ParallelSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\d_abu\\AppData\\Roaming\\NuGet\\NuGet.Config",

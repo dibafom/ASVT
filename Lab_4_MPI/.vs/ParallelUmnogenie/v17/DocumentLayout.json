@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\d_abu\\Desktop\\ASVT\\MPI-mult-matrix-master\\",
+  "WorkspaceRootPath": "C:\\Users\\d_abu\\Desktop\\ASVT\\Lab_4_MPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80BA1274-69C0-4252-A58D-5B4A0C7747D3}|ParallelSort\\ParallelUmnogenie.csproj|c:\\users\\d_abu\\desktop\\asvt\\mpi-mult-matrix-master\\parallelsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80BA1274-69C0-4252-A58D-5B4A0C7747D3}|ParallelSort\\ParallelUmnogenie.csproj|c:\\users\\d_abu\\desktop\\asvt\\lab_4_mpi\\parallelsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80BA1274-69C0-4252-A58D-5B4A0C7747D3}|ParallelSort\\ParallelUmnogenie.csproj|solutionrelative:parallelsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d_abu\\Desktop\\ASVT\\MPI-mult-matrix-master\\ParallelSort\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\d_abu\\Desktop\\ASVT\\Lab_4_MPI\\ParallelSort\\Program.cs",
               "RelativeDocumentMoniker": "ParallelSort\\Program.cs",
-              "ToolTip": "C:\\Users\\d_abu\\Desktop\\ASVT\\MPI-mult-matrix-master\\ParallelSort\\Program.cs",
+              "ToolTip": "C:\\Users\\d_abu\\Desktop\\ASVT\\Lab_4_MPI\\ParallelSort\\Program.cs",
               "RelativeToolTip": "ParallelSort\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwEMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:27:41.52Z",
               "EditorCaption": ""
