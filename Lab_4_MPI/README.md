@@ -41,11 +41,11 @@
 
 - **Инициализация матриц**:
     ```csharp
-    for (int i = 0; i < rowsA; i++)
+    for (int i = 0; i < rA; i++)
     {
-        for (int j = 0; j < colsA; j++)
+        for (int j = 0; j < cA; j++)
         {
-            matrixA[i * colsA + j] = countA++; // Заполнение матрицы A
+            mA[i * colsA + j] = countA++; // Заполнение матрицы A
         }
     }
     ```
@@ -53,7 +53,7 @@
 - **Отправка и получение данных**:
     ```csharp
     communicator.Send(item, i, 0); // Отправка элемента
-    matrixA[i * colsA + j] = communicator.Receive<int>(0, 0); // Получение элемента
+    mA[i * cA + j] = communicator.Receive<int>(0, 0); // Получение элемента
     ```
 
 - **Вычисление матричного произведения**:
@@ -74,3 +74,5 @@
 - Программа использует `Stopwatch` для измерения времени выполнения.
 - Программа использует 'Random' для заполнения матрицы и вектора
 
+## Скрины работы:
+![screenshot](Rez_Rabot.png)
