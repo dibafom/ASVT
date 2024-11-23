@@ -118,5 +118,5 @@ public class GregoryLeibnizGetPIJob : IComputePiJob
 - `ConsoleHelper` - Вспомогательный класс для форматированного вывода в консоль
 
 ## Скрины работы:
-![screenshot](115418.png)
+![screenshot](115322.png)
 ![screenshot](115418.png)
