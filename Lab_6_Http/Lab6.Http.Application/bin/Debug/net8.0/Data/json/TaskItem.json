@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Name": "Kaliningrad",
+    "Active": "Clear"
+  },
+  {
+    "Id": 2,
+    "Name": "Naberezhnye Chelny",
+    "Active": "Cloudy"
+  },
+  {
+    "Id": 3,
+    "Name": "Vladikavkaz",
+    "Active": "Light rain"
+  },
+  {
+    "Id": 4,
+    "Name": "Almetyevsk",
+    "Active": "Clear"
+  },
+  {
+    "Id": 5,
+    "Name": "Nizhnekamsk",
+    "Active": "Rain"
+  }
+]
